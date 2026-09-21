@@ -1,5 +1,5 @@
 #include <iostream>
-using mamespace std;
+using namespace std;
 
 int main() {
   int a,b;
