@@ -8,12 +8,10 @@ int main() {
     cin >> a >> b >> c;
     cin >> symbol;
 
-    // Символ R - фамилия и имя
     if (symbol == 'R') {
         cout << "Ivanov Ivan" << endl;
     }
 
-    // Символ c - корни многочлена
     else if (symbol == 'c') {
         double d, x1, x2;
 
@@ -44,8 +42,6 @@ int main() {
             }
         }
     }
-
-    // Символ s - сравнение площадей круга и квадрата
     else if (symbol == 's') {
         double r, side, s1, s2;
         cin >> r >> side;
