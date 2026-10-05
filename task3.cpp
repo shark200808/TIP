@@ -1,9 +1,7 @@
 #include <iostream>
-
 using namespace std;
 
 int main() {
-    // Переменные для числа x и результата
     double x;
     double result;
 
