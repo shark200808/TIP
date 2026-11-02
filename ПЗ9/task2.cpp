@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     ifstream in1("input1.txt");
     ifstream in2("input2.txt");
-    ofstream out("output.txt");
+    ofstream out("output2.txt");
 
     string x, y;
     getline(in1, x);

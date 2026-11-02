@@ -15,8 +15,8 @@ string toBin(long long n) {
 }
 
 int main() {
-    ifstream in("input.txt");
-    ofstream out("output.txt");
+    ifstream in("input3.txt");
+    ofstream out("output3.txt");
 
     string s;
     getline(in, s);
