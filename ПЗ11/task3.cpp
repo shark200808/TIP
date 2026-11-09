@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+    int hdgdhd = 123;
     int n, k, l;
     cin >> n >> k >> l;
 
