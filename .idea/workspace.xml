@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -21,17 +21,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea629ca-82c6-42ea-8c6a-e0a5f7337c6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ПЗ14/task1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ПЗ14/task2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ПЗ14/task3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aea629ca-82c6-42ea-8c6a-e0a5f7337c6d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,14 +43,14 @@
     <option name="minorVersion" value="2.2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7,
-  &quot;fromUser&quot;: false
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
   <component name="ProjectId" id="3LsCTYmG0WLnLy4AE7lddZ4Cle3" />
-  <component name="ProjectStatusUIService">{
-  &quot;uiKindId&quot;: &quot;Widget&quot;
-}</component>
+  <component name="ProjectStatusUIService"><![CDATA[{
+  "uiKindId": "Widget"
+}]]></component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -122,29 +112,29 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SelectedDebugProfileService">{
-  &quot;profileIdByStamp&quot;: [
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [
     {
-      &quot;first&quot;: {
-        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.task1.cpp&quot;
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.task1.cpp"
       },
-      &quot;second&quot;: &quot;691b5fe1-a1be-4080-a00c-ac4158ef6166&quot;
+      "second": "691b5fe1-a1be-4080-a00c-ac4158ef6166"
     },
     {
-      &quot;first&quot;: {
-        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.task4.cpp&quot;
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.task4.cpp"
       },
-      &quot;second&quot;: &quot;691b5fe1-a1be-4080-a00c-ac4158ef6166&quot;
+      "second": "691b5fe1-a1be-4080-a00c-ac4158ef6166"
     },
     {
-      &quot;first&quot;: {
-        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.task2.cpp&quot;
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.task2.cpp"
       },
-      &quot;second&quot;: &quot;691b5fe1-a1be-4080-a00c-ac4158ef6166&quot;
+      "second": "691b5fe1-a1be-4080-a00c-ac4158ef6166"
     }
   ],
-  &quot;modificationCount&quot;: 5
-}</component>
+  "modificationCount": 5
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aea629ca-82c6-42ea-8c6a-e0a5f7337c6d" name="Changes" comment="" />
