@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+//task 1
 using namespace std;
 
 void makeComb(int arr[], int n, int k, int start, vector<int>& cur) {
